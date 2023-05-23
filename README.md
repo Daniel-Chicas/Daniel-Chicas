@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranca2609&langs_private=true&theme=tokyonight)]()
+<br><br>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/rfyiamcool/rfyiamcool/output/github-contribution-grid-snake.svg)
