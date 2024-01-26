@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Chicas&langs_private=true&theme=tokyonight)]()
 -->
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Chicas&langs_private=true&theme=tokyonight)]()
 <br><br>
 
 
