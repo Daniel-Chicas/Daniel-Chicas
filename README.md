@@ -124,15 +124,17 @@ I am 24 years old and I am currently studying the tenth semester of the Science 
   </a>
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+# GitHub Analytics
+---
+<br><br>
+![github contribution grid snake animation](https://raw.githubusercontent.com/rfyiamcool/rfyiamcool/output/github-contribution-grid-snake.svg)
 
+---
 <p align="center">
 <a href="https://github.com/Daniel-Chicas">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel-Chicas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniel-Chicas&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-<br><br>
-![github contribution grid snake animation](https://raw.githubusercontent.com/rfyiamcool/rfyiamcool/output/github-contribution-grid-snake.svg)
 </p> 
 
