@@ -125,8 +125,7 @@ I am 24 years old and I am currently studying the tenth semester of the Science 
 </p>
 
 # GitHub Analytics
----
-<br><br>
+--- 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/rfyiamcool/rfyiamcool/output/github-contribution-grid-snake.svg)
 
 ---
