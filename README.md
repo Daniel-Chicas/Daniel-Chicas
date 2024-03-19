@@ -3,7 +3,7 @@
 I am 24 years old and I am currently studying the tenth semester of the Science and Systems Engineering degree at the University of San Carlos in Guatemala. My educational background and experience have equipped me with software development skills, and I am knowledgeable in using cloud computing service providers such as AWS, GCP, and Azure.
 
 
-<h3 align="left">Known languages and tools:</h3>
+# Known languages and tools
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
