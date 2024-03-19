@@ -132,11 +132,7 @@ I am 24 years old and I am currently studying the tenth semester of the Science 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniel-Chicas&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-</p>
-
 <br><br>
 ![github contribution grid snake animation](https://raw.githubusercontent.com/rfyiamcool/rfyiamcool/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-
+</p> 
 
