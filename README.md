@@ -1,5 +1,6 @@
 ### &nbsp;About Me
 I am 24 years old and I am currently studying the tenth semester of the Science and Systems Engineering degree at the University of San Carlos in Guatemala. My educational background and experience have equipped me with software development skills, and I am knowledgeable in using cloud computing service providers such as AWS, GCP, and Azure.
+---
 I am willing to face new challenges and opportunities that allow me to grow and contribute to the field of science and systems engineering.
 
 
